@@ -1,0 +1,33 @@
+{
+  "name": "express-supertest-sample",
+  "version": "1.0.0",
+  "description": "Sample for testing Express routes with Supertest and Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBehtemam/express-supertest-sample.git"
+  },
+  "keywords": [
+    "supertest",
+    "mocha",
+    "express",
+    "testing",
+    "TDD"
+  ],
+  "author": "Mohammad Bagher Ehtemam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MBehtemam/express-supertest-sample/issues"
+  },
+  "homepage": "https://github.com/MBehtemam/express-supertest-sample#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
+  }
+}
